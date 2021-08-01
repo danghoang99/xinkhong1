@@ -1,0 +1,1 @@
+alert('Chào bạn đến với anh Hoàng !')
